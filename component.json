@@ -1,0 +1,10 @@
+{
+    "name": "vue-async-data",
+    "description": "async data loading plugin for Vue.js",
+    "repos": "https://github.com/vuejs/vue-async-data.git",
+    "main": "vue-async-data.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.0"
+}
